@@ -27,7 +27,11 @@ img {
     text-align: center;
 }
 
-.thirdDiv {
+.divClass {
+    margin-bottom: 20px;
+}
+
+#thirdDiv {
     height: 600px;
     width: 500px;
     background-color: #f1f1f1;
